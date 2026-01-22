@@ -32,4 +32,4 @@ print("------------------------------------------")
 print("RESULT")
 print("------------------------------------------")
 percentage=score/4*100
-print(f"your score is{percentage} %")
+print(f"your score  is {percentage} %")
